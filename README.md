@@ -1,4 +1,5 @@
-# Vellore DMart Sales Dashboard
+# DMart_Sales_Dashboard
+Supermarket Sales Analysis using Power BI.
 
 ## Project Description
 Created a Power BI dashboard to analyze supermarket sales, expenses, profit, and product performance.
@@ -17,6 +18,3 @@ Created a Power BI dashboard to analyze supermarket sales, expenses, profit, and
 
 ## Objective
 To understand sales performance and identify opportunities to improve profitability.
-
-# DMart_Sales_Dashboard
-Supermarket Sales Analysis using Power BI.
