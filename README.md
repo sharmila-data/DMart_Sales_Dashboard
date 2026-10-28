@@ -1,4 +1,4 @@
-# 🛒 DMart Sales Dashboard – Power BI
+# DMart Sales Dashboard – Power BI
 
 ## Project Overview
 The DMart Sales Dashboard is an interactive Power BI project designed to analyze sales performance, profit, customer types, payment methods, and product categories. It helps identify top-performing products and understand monthly sales trends.
